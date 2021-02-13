@@ -32,7 +32,7 @@ The site is interactive because users can click on different images. By doing so
 
 _Visual Haggard_ on mobile devices offers the same setup. Similar to the problem of trying to view the site on a small viewing window, such as a phone, the tabs do not appear on the top of the page. Additionally, the titles and pictures on the “Novels” page do not line up, making the page look unorganized. After clicking on a picture, the information presented goes down the right side of the screen. This results in excessive scrolling since the information is against one side. However, this version still offers plenty of scholarly content on mobile devices.
 
-image
+![Visual Haggard](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewOneVHMobile.jpg)
 
 ### Overall
 
