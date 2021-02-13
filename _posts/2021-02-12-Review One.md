@@ -8,7 +8,7 @@ Project URL: http://www.visualhaggard.org/main/editors_statement
 
 Reviewer: Marissa Sawh
 
-![homescreen of Visual Haggard](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewOneVH_Homepage.jpg)
+image
 
 ### Overview
 
@@ -20,7 +20,7 @@ Before looking through the artwork in Visual Haggard, the site directs the user 
 
 On the right side of the header is a search engine bar that allows users to explore the site. In addition, there are tabs labeled as “Novels,” “Illustrators,” “Biography,” and “Editor’s Statement.” However, the tabs do not appear when the window of the page is not on full-screen view. This makes it difficult for users that want to work with a split-screen set-up. On the other hand, the tabs organize the site making it fast and easy to use. 
 
-![Visual Haggard small screen view](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewOneVH_small%20screen.jpg)
+image
 
 The “Novels” tab brings the user to the first page of six, which has illustrations from particular novels. The page has three rows each with four illustrations. While using the site, the pictures seemed to lag when going from one page to another. When the user clicks on an illustration, it takes them to a page with information about the novel. It contains a description of the novel and other editions the illustration/ novel relates to. At the bottom of each page is a comment section that allows individuals to interact and discuss the novel.
 
