@@ -8,7 +8,7 @@ Project URL: http://www.visualhaggard.org/main/editors_statement
 
 Reviewer: Marissa Sawh
 
-![homescreen of Visual Haggard] (https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewOneVH_Homepage.jpg)
+![homescreen of Visual Haggard](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewOneVH_Homepage.jpg)
 
 ### Overview
 
