@@ -1,6 +1,6 @@
 # Review: _Visual  Haggard_
 
-Project: Visual Haggard
+Project: _Visual Haggard_
 
 Editor: Kate Holterhoff
 
