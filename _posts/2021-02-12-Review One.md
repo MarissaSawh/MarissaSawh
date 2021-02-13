@@ -1,8 +1,11 @@
 # Review: _Visual  Haggard_
 
 Project: Visual Haggard
+
 Editor: Kate Holterhoff
+
 Project URL: http://www.visualhaggard.org/main/editors_statement
+
 Reviewer: Marissa Sawh
 
 Image here
