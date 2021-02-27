@@ -23,7 +23,7 @@ I struggled most with the paragraph tags. Since throughout my education, it was 
 
 Another code that was difficult was the code to correct spelling because it was so long and I just wanted to give up. However, after looking at the code again I realized how easy and simple it was since it states where to put the original spelling and the corrected version. Even though I struggled initially with some codes it was actually very straightforward; it just takes practice. I was able to fix my work through trial and error by using the green valid code box and the “author view” mode; these features made me more confident in my work.  
 
-Picture
+![Coding of the short story "The Yellow Wall-paper"](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_TEIpic2.jpg)
 
 ### Conclusion
 
