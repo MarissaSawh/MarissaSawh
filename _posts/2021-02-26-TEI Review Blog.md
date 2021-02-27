@@ -8,7 +8,8 @@ When I first was presented with the task to code a portion of “The Yellow Wall
 	
 Before using the software Oxygen, I marked up the text on a more familiar software, Google Docs. I highlighted parts of the text to indicate what needed to be tagged. Then, I would attach a comment to the highlighted text that stated what tag to use later on in Oxygen. This made it easy to code because I was able to break down the work into smaller and more simplified steps; then progressing to the harder part of the assignment, coding. 
 
-![Google Docs] (https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_TEIBlogGoogleDocs.jpg)
+![Google Docs
+](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_TEIBlogGoogleDocs.jpg)
 
 After I practiced the simplified version of coding on the google document, I copied and pasted the text into Oxygen. A program that uses TEI,  a set of standard eXtensible Markup Language, also known as XML. As soon as I opened up a new file and chose the “manuscript description” template, I was immediately intimidated and overwhelmed by the number of tags on the screen.
 
