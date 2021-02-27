@@ -21,7 +21,7 @@ Tags that I marked included page beginning, paragraphs, weird spaces, underlined
 
 I struggled most with the paragraph tags. Since throughout my education, it was ingrained into my brain that paragraphs should range from 5-7 sentences, but I was using the tag “paragraph” for just single sentences. So it felt like I was using the code wrong. 
 
-Another code that was difficult was the code to correct spelling because it was so long and I just wanted to give up. However, after looking at the code again I relaized how easy and simple it was since it states where to put the original spelling and the corrected version. Even though I struggled initially with some codes it was actually very straightforward; it just takes practice. I was able to fix my work through trial and error by using the green valid code box and the “author view” mode; these features made me more confident in my work.  
+Another code that was difficult was the code to correct spelling because it was so long and I just wanted to give up. However, after looking at the code again I realized how easy and simple it was since it states where to put the original spelling and the corrected version. Even though I struggled initially with some codes it was actually very straightforward; it just takes practice. I was able to fix my work through trial and error by using the green valid code box and the “author view” mode; these features made me more confident in my work.  
 
 Picture
 
