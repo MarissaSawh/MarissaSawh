@@ -13,7 +13,7 @@ Before using the software Oxygen, I marked up the text on a more familiar softwa
 
 After I practiced the simplified version of coding on the google document, I copied and pasted the text into Oxygen. A program that uses TEI,  a set of standard eXtensible Markup Language, also known as XML. As soon as I opened up a new file and chose the “manuscript description” template, I was immediately intimidated and overwhelmed by the number of tags on the screen.
 
-Picture
+![Manuscript Description Template on Oxygen](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_TEItemplate.jpg)
 
 So I reformatted my laptop screen; one side with Oxygen and the other with the tutorial created by my digital humanities professor. The tutorial walked me through how to use the program and the assignment transformed from daunting to enjoyable. At this point, I was just copying and pasting the text from my google document into Oxygen. Then, I put in the tags that I had already indicated in the google document as well. 
 
