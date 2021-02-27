@@ -1,4 +1,5 @@
 # Review of TEI
+By Marissa Sawh
 
 ### Overview
 For the Text Encoding Initiative (TEI) assignment, I coded pages 43-46 in the short story “The Yellow Wall-paper” by Charlotte Perkins Stetson (Gilman). Before using TEI, I went through the text on a Google document and marked parts of the story that I would have to code later on. After this simplified version of coding, I then put the text into the program Oxygen that uses TEI to actually code the text.  This process broke down the assignment step-by-step and made coding effortless.
