@@ -18,9 +18,9 @@ So I reformatted my laptop screen; one side with Oxygen and the other with the t
 
 Tags that I marked included page beginning, paragraphs, weird spaces, underlined words, em-dashes, wrong spelling, and crossed-out text. From this point on in the project, I had the mentality of “sure that looks like a code...why not…?” and was just kind of going for it. 
 
-I struggled most with the paragraph tags,<p> </p>. This is because, throughout my education, it was ingrained into my brain that paragraphs should range from 5-7 sentences, but I was using the tag “paragraph” for just single sentences. So it felt like I was using the code wrong. 
+I struggled most with the paragraph tags,"<p> </p>". This is because, throughout my education, it was ingrained into my brain that paragraphs should range from 5-7 sentences, but I was using the tag “paragraph” for just single sentences. So it felt like I was using the code wrong. 
 
-Another code that was difficult was the code to correct spelling, <choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>. However, with the use of the green valid code box and using “author view” I was able to fix my work through trial and error.
+Another code that was difficult was the code to correct spelling, "<choice><corr>correct spelling here</corr><sic>original spelling here</sic></choice>." However, with the use of the green valid code box and using “author view” I was able to fix my work through trial and error.
 
 Picture
 
