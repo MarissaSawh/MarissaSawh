@@ -24,3 +24,5 @@ The heading “Interactive Map” brings the user to a map of old Beijing, China
 
 While the map is very detailed and informative about the city, there is no way to zoom out of the map to see it as a whole. The only way to see the map as a whole is to change the entire view of the page. Despite not being able to zoom out to see the whole map, the user can zoom in and interact with the map. A feature that allows users to see the differences between the maps on the site would also be useful.
 
+![Interactive Map](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewTwoBOD2.jpg)
+
