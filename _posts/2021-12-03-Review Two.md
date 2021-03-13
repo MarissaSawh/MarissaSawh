@@ -26,3 +26,15 @@ While the map is very detailed and informative about the city, there is no way t
 
 ![Interactive Map](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewTwoBOD2.jpg)
 
+The red symbols on the map represent the gates, walls, and corners; these correspond with the headings at the top of the page. By clicking on a red symbol, it takes the user to the section of the site that coincides with those sets of pictures. For instance, clicking on a gate symbol will bring the user to the section "Gates" that has all the gate pictures. This is also the same process for the wall or corner symbols on the map. One thing to note is that clicking on the symbol does not take you directly to a specific picture or subsection, but just to the different tabs themselves.
+ 
+The symbols linked with other sections of the page keep the site organized because it’s easy to find where the pictures are. However, it would be helpful if there was a search bar, especially for the “Miscellaneous” and “All Images” sections to make finding pictures faster. This would pose difficulties for some users because some of the names for pictures, especially in the gate section, are in Chinese.
+ 
+While the site does provide pictures that show the beauty of Beijing in the past, there is no information to accompany the pictures. It would be beneficial to users if there was some history about the city provided, either with each picture or in its own section on the site.
+
+Robert Temple provided sources from his personal collection to provide pictures for the project. Sources included Osvald Siren's book "The Walls and Gates of Peking" and Heinz von Perckhammer's book "Peking." Some photos were also enhanced by Michael Lee.
+
+In addition, I  explored the site for roughly an hour and a half until the site “could no longer be reached.” The longer I used the site, the slower the site became, and eventually it shut down. However, this only occurred once out of the many times I used the site.
+ 
+### Notable Features
+
