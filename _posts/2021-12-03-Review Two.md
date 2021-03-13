@@ -8,7 +8,7 @@ Project URL: https://www.beijingofdreams.com/index.html
 
 Reviewer: Marissa Sawh
 
-picture
+![Homepage of Beijing of Dreams](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReviewTwoBOD1.jpg)
 
 ### Overview
 
