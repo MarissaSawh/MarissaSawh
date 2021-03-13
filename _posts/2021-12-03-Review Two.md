@@ -2,7 +2,7 @@
 
 Project: Beijing of Dreams
 
-Editor: 
+Editor: Robert Temple
 
 Project URL: https://www.beijingofdreams.com/index.html 
 
