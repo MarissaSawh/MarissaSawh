@@ -29,7 +29,7 @@ This helped me to understand my project had to offer. It made me realize that my
 
 “What does digital humanities mean to you?” Well, to be completely honest, I am still not completely sure. Everytime I try to think about defining digital humanities, it feels like I am living in Jason Heppler’s “What is Digital Humanities” webpage and someone is attacking the “refresh the page” button, to find the “right” and all encompassing definition. That said, I understand it based on my professor’s slide show image from the first day of class:
 
-Picture
+![Venn Diagram of HUmanities Practice and Technology](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_PictureOfDH.jpg)
 
 I understand it is a mix of humanities practice and technology. I understand it is an educational and research-based project that allows users to interact with the presentation of the information. However, I do not think I could teach someone what digital humanities is. My understanding of the field is primarily based on the digital humanities projects we looked at in class and for homework as well as by writing reviews of projects. However, one singular definition? That I don’t know.
 
