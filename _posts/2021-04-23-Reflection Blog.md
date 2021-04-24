@@ -11,6 +11,8 @@ My project is “A Walk Through the Neighborhood.” It is a series of archival 
  
 I ended-up switching the area because the project “Living Together/ Living Apart” created by individuals at Christopher Newport University was already centered around the Newport News area and was also about redlining. So, my digital humanities professor recommended that I change the location to help my project stand-out more. In addition, the project “Mapping Inequality: Redlining in New Deal America” by American Panorama is similar to both mine and “Living Together/ Living Apart.” 
 
+![Picture of America Panorama Project](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_ReflectionPicture.jpg)
+
 The biggest difference between my project and the others is that I am incorporating both qualitative and quantitative information in my project. While my project will include similar features to the other projects such as maps, demographics, and housing information, it will also include features that show the differences in neighborhoods through timelines, graphs, compare/contrast options, and most importantly archival images. 
 
 These features will allow people of all educational levels to understand the significance of redlining because the information is presented in many different visual formats to show the effects of redlining. In addition, the photographs will display the data, such as with information on housing prices and living conditions, to depict the environments individuals were forced to live in. Thus, it creates the effect of walking through different neighborhoods during the time that racial segregation was being aided by governmental programs.
