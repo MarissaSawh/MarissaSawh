@@ -23,7 +23,7 @@ At times, I wanted to scrap the entire proposal because I thought it was too sim
 
 This helped me to understand my project had to offer. It made me realize that my project was not just about demographics, housing projects, or showing how this perpetuated the wealth gap that exists today. It adds information about how many Americans are still affected today by the history of redlining and provides a solution to one contributor to inequality, which is the root of the problem.  
 
-! [Tweet](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_Week14twitter2.jpg) 
+![Tweet](https://raw.githubusercontent.com/MarissaSawh/MarissaSawh/main/images/ENGL350_Week14twitter2.jpg) 
 
 ## Reflection on the Class
 
