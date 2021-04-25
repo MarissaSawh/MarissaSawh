@@ -1,4 +1,4 @@
-# Grant Process/ Rfelection Blog
+# Grant Process/ Reflection Blog
 By Marissa Sawh
 
 ## Grant Process Reflection
